@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538906306 source:f:\2018\szkola\cplusplus\algorytmynumeryczne\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
